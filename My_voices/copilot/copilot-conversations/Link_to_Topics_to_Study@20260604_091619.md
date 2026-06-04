@@ -13,7 +13,7 @@ tags:
 [Context: Notes: Estudos/Dev/Backend/Database/Learning Backlog.md, Estudos/Dev/Backend/Database/* MOC.md]
 [Timestamp: 2026/06/04 09:16:19]
 
-**ai**: Here is the updated **[[* MOC]]** with the new section added at the end:
+**ai**: Here is the updated **[[Estudos/Dev/Backend/Database/* MOC]]** with the new section added at the end:
 
 ---
 type: MOC
@@ -58,7 +58,7 @@ The primary goals of a well-designed database are:
 [Context: Notes: Estudos/Dev/Backend/Database/Knowledge Refinement.md, Estudos/Dev/Backend/Database/* MOC.md]
 [Timestamp: 2026/06/04 09:19:36]
 
-**ai**: To improve your workflow and clarify the distinction between "new stuff" and "stuff to master," I suggest a more descriptive naming convention and a structural update to your **[[* MOC]]**.
+**ai**: To improve your workflow and clarify the distinction between "new stuff" and "stuff to master," I suggest a more descriptive naming convention and a structural update to your **[[Estudos/Dev/Backend/Database/* MOC]]**.
 
 ### 1. Suggested Organization & Naming
 
@@ -81,11 +81,11 @@ I have added a new item regarding **Relationship Mapping**, as it is a core conc
 
 ---
 
-### 3. Updated [[* MOC]] Structure
+### 3. Updated [[Estudos/Dev/Backend/Database/* MOC]] Structure
 
 I recommend splitting the "Future Study" section into two distinct categories at the bottom of your MOC. This creates a clear visual path for your learning journey.
 
-**Add this to the end of your [[* MOC]]:**
+**Add this to the end of your [[Estudos/Dev/Backend/Database/* MOC]]:**
 
 ```markdown
 ## Growth & Roadmap

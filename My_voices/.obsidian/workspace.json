@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Business/Enterprise Organization/Business Plan/Business Strategy.md",
+                "file": "Estudos/Business/Enterprise Organization/Proprietorships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Strategy"
-            }
-          },
-          {
-            "id": "763fab7580426127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudos/Business/Enterprise Organization/Business Plan/Business Strategy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Business Strategy"
+              "title": "Proprietorships"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Parts",
+                "query": "tag:#architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -170,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Estudos/Business/Enterprise Organization/Proprietorships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Proprietorships"
             }
           },
           {
@@ -194,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "copilot/memory/Recent Conversations.md"
+                "file": "Estudos/Business/Enterprise Organization/Proprietorships.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo Recent Conversations"
+              "title": "Propriedades do arquivo Proprietorships"
             }
           },
           {
@@ -221,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -240,16 +227,24 @@
       "copilot:Open Copilot Chat": false,
       "scribe:Scribe": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Abrir importador Markdown": false
     }
   },
   "active": "38d10f71991c14f5",
   "lastOpenFiles": [
-    "Estudos/Business/Enterprise Organization/Business Plan/Business Model.md",
-    "Estudos/Business/Enterprise Organization/Business Plan/Business Strategy.md",
+    "Estudos/Business/images/Captura de Tela 2026-06-04 às 11.31.17.png",
+    "Estudos/Business/images",
+    "Estudos/Business/Enterprise Organization/Proprietorships.md",
+    "Estudos/Business/Enterprise Organization/Business Strategy.md",
+    "Estudos/Business/Enterprise Organization/Business Plan.md",
+    "Estudos/Business/Enterprise Organization/Business Model.md",
+    "Estudos/Business/* MOC.md",
+    "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.34.16.png",
+    "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.33.38.png",
+    "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.31.39.png",
+    "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.05.16.png",
     "copilot/copilot-conversations/Obsidian_Summarization_and_Formatting@20260604_124624.md",
-    "Estudos/Business/Enterprise Organization/Business Plan/MOC.md",
-    "Captura de Tela 2026-06-04 às 11.31.17.png",
     "Estudos/Business/Enterprise Organization/Business Plan",
     "Estudos/Business/Enterprise Organization",
     "Estudos/Dev/Backend/Database/Learning Backlog.md",
@@ -272,7 +267,6 @@
     "Estudos/Dev/AI/Computer Vision",
     "Labor/ZSCAN",
     "Labor",
-    "Estudos/Dev/AI",
     "Estudos/Dev/Backend/Database/Database Design/Relationship Mapping.md",
     "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Language Concepts.md",
     "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Data Types.md",
@@ -280,17 +274,10 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "Sem título.canvas",
     "2026-06-01.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 13.00.54.png",
     "Captura de Tela 2026-06-01 às 12.38.03.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 12.19.17.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 12.19.23.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 11.04.00.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 11.04.09.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 09.59.55.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.29.55.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.05.54.png"
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 11.04.00.png"
   ]
 }

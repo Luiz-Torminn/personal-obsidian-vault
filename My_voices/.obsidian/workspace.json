@@ -11,14 +11,10 @@
             "id": "38d10f71991c14f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudos/Business/Enterprise Organization/Proprietorships.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proprietorships"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -232,13 +228,13 @@
   },
   "active": "38d10f71991c14f5",
   "lastOpenFiles": [
+    "Estudos/Business/* MOC.md",
+    "Estudos/Business/Enterprise Organization/Proprietorships.md",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 11.31.17.png",
     "Estudos/Business/images",
-    "Estudos/Business/Enterprise Organization/Proprietorships.md",
     "Estudos/Business/Enterprise Organization/Business Strategy.md",
     "Estudos/Business/Enterprise Organization/Business Plan.md",
     "Estudos/Business/Enterprise Organization/Business Model.md",
-    "Estudos/Business/* MOC.md",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.34.16.png",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.33.38.png",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.31.39.png",

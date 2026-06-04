@@ -1,6 +1,9 @@
 ---
-type: concept
+id: 20260601-1300
+type: permanent
 tags: [database, security, encryption, cryptography]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # What is encryption
 

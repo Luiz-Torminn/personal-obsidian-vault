@@ -1,6 +1,9 @@
 ---
-type: concept
+id: 20260601-0930
+type: permanent
 tags: [sql, database, relational]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # Relational Database Fundamentals
 

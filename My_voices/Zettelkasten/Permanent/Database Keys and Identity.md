@@ -1,8 +1,9 @@
 ---
-type: concept
-tags:
-  - database
-  - logic
+id: 20260601-1219
+type: permanent
+tags: [database, logic]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # Database Keys and Identity
 

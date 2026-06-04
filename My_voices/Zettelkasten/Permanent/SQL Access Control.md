@@ -1,6 +1,9 @@
 ---
-type: concept
+id: 20260601-1500
+type: permanent
 tags: [sql, database, security, access-control]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # What is it
 

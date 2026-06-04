@@ -1,3 +1,0 @@
-- Better Understand [[Database Normalization#^0bb316 |3NF]]
-- Finish [[Indexing]]
-- Practice [[Relationship Mapping]]: Create ER diagrams for a "School" or "E-commerce" schema to master Many-to-Many junctions.

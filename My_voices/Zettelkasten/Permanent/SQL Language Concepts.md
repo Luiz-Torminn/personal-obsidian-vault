@@ -1,6 +1,9 @@
 ---
-type: concept
-tags: [sql, programming]
+id: 20260601-1430
+type: permanent
+tags: [sql, database, programming]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # SQL Language Concepts
 

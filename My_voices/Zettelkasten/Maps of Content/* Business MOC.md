@@ -1,7 +1,9 @@
 ---
-type: MOC
+id: 20260604-0010
+type: index
 tags: [business, planning, strategy, business-model, management, moc]
 aliases: [Business MOC, Business Map of Content]
+up: "[[Home]]"
 ---
 
 # Business — Map of Content

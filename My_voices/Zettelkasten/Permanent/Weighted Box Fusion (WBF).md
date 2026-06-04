@@ -1,6 +1,9 @@
 ---
-type: method
+id: 20260602-1254
+type: permanent
 tags: [ai, computer-vision, post-processing, object-detection, weighted-box-fusion, wbf]
+up: "[[* AI MOC]]"
+created: 2026-06-04
 ---
 # Weighted Box Fusion (WBF)
 

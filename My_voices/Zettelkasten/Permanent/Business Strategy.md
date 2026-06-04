@@ -1,9 +1,9 @@
 ---
-type: summary
-tags:
-  - management
-  - entrepreneurship
-  - competitive-advantage
+id: 20260604-1200
+type: permanent
+tags: [management, entrepreneurship, competitive-advantage]
+up: "[[* Business MOC]]"
+created: 2026-06-04
 ---
 # Definition
 
@@ -99,5 +99,4 @@ Success is rarely a straight line. Every startup is an experiment; failure is a 
 
 ## Related
 
-- Up: [[* MOC|Business MOC]]
 - Sits within the [[Business Plan]]; pairs with [[Business Model]].

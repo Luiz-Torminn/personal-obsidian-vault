@@ -1,8 +1,9 @@
 ---
-type: reference
-tags:
-  - sql
-  - development
+id: 20260601-1400
+type: permanent
+tags: [sql, database, development, reference]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # SQL Data Types
 
@@ -54,4 +55,4 @@ ENUM('Low', 'Medium', 'High')
 ---
 
 > [!NOTE]
-> You can always use AI to help you setting the datatypes
+> You can always use AI to help you set the data types.

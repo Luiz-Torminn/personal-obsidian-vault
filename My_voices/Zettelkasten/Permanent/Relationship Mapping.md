@@ -1,6 +1,9 @@
 ---
-type: concept
+id: 20260601-0809
+type: permanent
 tags: [database, architecture, design]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # Meaning
 

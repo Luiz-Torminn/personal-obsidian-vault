@@ -1,6 +1,9 @@
 ---
-type: process
-tags: [development, workflow]
+id: 20260601-0900
+type: permanent
+tags: [database, development, workflow]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # Database Design Process
 
@@ -14,7 +17,7 @@ The lifecycle of creating a database schema involves three main stages:
 - **Identify Subjects and Characteristics**: 
 	- Use the "HAS/OWNS" rule: A "User" (Subject/Entity) HAS a "Password" (Characteristic/Attribute).
 	- Naming convention: Use `snake_case` or `camelCase` consistently. Keep names short.
-	- Use keywords
+	- Avoid using reserved SQL keywords as identifiers.
 - [[Database Normalization |Normalization]]: Break tables into smaller, logical units to reduce redundancy.
 - [[Relationship Mapping]]: Define how entities interact.
 

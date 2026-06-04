@@ -1,9 +1,9 @@
 ---
-
-type: "summary"
-
+id: 20260604-1300
+type: permanent
 tags: [business, enterprise-organization, legal-structure, proprietorship, partnership, corporation]
-
+up: "[[* Business MOC]]"
+created: 2026-06-04
 ---
 # Types
 
@@ -74,5 +74,4 @@ A corporation is a separate legal entity owned through shares.
 
 ## Related
 
-- Up: [[* MOC|Business MOC]]
 - Informs the legal-structure choice in the [[Business Plan]].

@@ -1,11 +1,9 @@
 ---
-type: summary
-tags:
-  - business-model
-  - entrepreneurship
-  - revenue-streams
-  - startup-planning
-  - business-strategy
+id: 20260604-1131
+type: permanent
+tags: [business-model, entrepreneurship, revenue-streams, startup-planning, business-strategy]
+up: "[[* Business MOC]]"
+created: 2026-06-04
 ---
 # Definition
 
@@ -51,5 +49,4 @@ For a deeper dive into various possibilities of business model structures, refer
 
 ## Related
 
-- Up: [[* MOC|Business MOC]]
 - Sits within the [[Business Plan]]; pairs with [[Business Strategy]].

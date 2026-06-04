@@ -1,6 +1,9 @@
 ---
-type: concept
+id: 20260601-1005
+type: permanent
 tags: [database, design, optimization]
+up: "[[* Database MOC]]"
+created: 2026-06-04
 ---
 # What is it 
 
@@ -43,7 +46,7 @@ Normal Forms are a series of progressive design rules used to organize relationa
 
 - **Criteria**:
 	- Meets all requirements of **1NF** and **2NF**.
-	- It has **NO** [[Database Keys and Identity#^f71051||transitive dependecies]].
+	- It has **NO** [[Database Keys and Identity#^f71051|transitive dependencies]].
 
 	- *Rule of thumb:* Attributes must depend on "single primary key, and nothing but that single primary key."
 

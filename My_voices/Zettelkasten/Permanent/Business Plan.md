@@ -1,9 +1,9 @@
 ---
-
-type: "summary"
-
+id: 20260604-1405
+type: permanent
 tags: [business-plan, entrepreneurship, planning, fundraising, management]
-
+up: "[[* Business MOC]]"
+created: 2026-06-04
 ---
 # Definition
 
@@ -177,5 +177,4 @@ Follow strong writing rules: use words sparingly, keep sentences simple, use des
 
 ## Related
 
-- Up: [[* MOC|Business MOC]]
 - [[Business Model]] · [[Business Strategy]] · [[Proprietorships]]

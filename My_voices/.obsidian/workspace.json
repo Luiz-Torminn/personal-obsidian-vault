@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Dev/Backend/Database/Learning Backlog.md",
+                "file": "Estudos/Business/Business Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Backlog"
+              "title": "Business Plan"
             }
           }
         ]
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,11 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5abf86031f93142",
+  "active": "18756d28c4c8556c",
   "lastOpenFiles": [
+    "Estudos/Dev/Backend/Database/Learning Backlog.md",
+    "Estudos/Business/Business Plan.md",
+    "Estudos/Business",
     "copilot/copilot-conversations/File_Organization_and_Translation@20260604_095643.md",
     "Estudos/Dev/Backend/Database/* MOC.md",
-    "Estudos/Dev/Backend/Database/Learning Backlog.md",
     "Estudos/Dev/Backend/Database/Knowledge Refinement.md",
     "Estudos/Dev/Backend/Database",
     "Estudos/Dev/Backend/Sem título",
@@ -266,7 +269,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-conversations/Refining_Relationship_Mapping_Notes@20260601_082239.md",
-    "copilot/copilot-conversations/Organizing_Second_Brain_Folders@20260531_150613.md",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 13.00.54.png",
     "Captura de Tela 2026-06-01 às 12.38.03.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 12.19.17.png",
@@ -276,7 +278,6 @@
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 09.59.55.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.29.55.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.05.54.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 08.09.55.png",
-    "Estudos/Dev/Frontend"
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 08.09.55.png"
   ]
 }

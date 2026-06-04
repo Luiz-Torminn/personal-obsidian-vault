@@ -195,9 +195,19 @@
               "icon": "lucide-ghost",
               "title": "smtcmp-chat-view"
             }
+          },
+          {
+            "id": "f8616d543d4fdea1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -215,7 +225,8 @@
       "bases:Criar nova base": false,
       "copilot:Open Copilot Chat": false,
       "scribe:Scribe": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c5abf86031f93142",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Dev/Backend/Database/* MOC.md",
+                "file": "Estudos/Dev/Backend/Database/Learning Backlog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "* MOC"
+              "title": "Learning Backlog"
             }
           }
         ]
@@ -214,14 +214,16 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "copilot:Open Copilot Chat": false,
-      "scribe:Scribe": false
+      "scribe:Scribe": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "37d2a0579f4e116a",
+  "active": "c5abf86031f93142",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/File_Organization_and_Translation@20260604_095643.md",
+    "Estudos/Dev/Backend/Database/* MOC.md",
     "Estudos/Dev/Backend/Database/Learning Backlog.md",
     "Estudos/Dev/Backend/Database/Knowledge Refinement.md",
-    "Estudos/Dev/Backend/Database/* MOC.md",
     "Estudos/Dev/Backend/Database",
     "Estudos/Dev/Backend/Sem título",
     "copilot/copilot-conversations/Link_to_Topics_to_Study@20260604_091619.md",

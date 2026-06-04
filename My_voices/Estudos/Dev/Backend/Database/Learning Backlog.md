@@ -1,8 +1,14 @@
-- Tabela agrupadora --> estrutura --> conteudo
-- Como saber se algo é compartilhado ou não e qual a repercussão disso na base de dados
-- Flexibilidade
-- O que é estrutura atomica? Qual a relação disso com database design
-- Classe de autorização
-- Quando criar tabelas associativas
-- Dominio de auxilio e dominio vital/core - qual a diferenca?
+# Domain Logic
+- Core vs. Supporting Domains
+- Authorization Classes & RBAC
+- Design Flexibility vs. Rigidity
+- Data Atomicity Principles
 
+# Structural Patterns
+- Hierarchical Grouping (Grouping Table → Structure Table → Content Table)
+- Shared vs. Isolated Data Scope
+- Associative Mapping (N:N Logic)
+
+# Identity & Implementation
+- Identifier Strategies (Nano ID)
+- Database Repercussions of Architectural Choices

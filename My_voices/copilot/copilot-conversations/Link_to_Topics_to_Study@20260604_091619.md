@@ -9,8 +9,8 @@ tags:
   - copilot-conversation
 ---
 
-**user**: Add another H2 at the end to link the topics to study file at [[Learning Backlog]]
-[Context: Notes: Estudos/Dev/Backend/Database/Database Design/Topics to Study.md, Estudos/Dev/Backend/Database/* MOC.md]
+**user**: Add another H2 at the end to link the topics to study file at [[Topics to Study]]
+[Context: Notes: Estudos/Dev/Backend/Database/Learning Backlog.md, Estudos/Dev/Backend/Database/* MOC.md]
 [Timestamp: 2026/06/04 09:16:19]
 
 **ai**: Here is the updated **[[* MOC]]** with the new section added at the end:
@@ -51,11 +51,11 @@ The primary goals of a well-designed database are:
 
 ## Future Study
 
-- [[Learning Backlog]]: A backlog of concepts and questions to explore for deeper mastery.
+- [[Topics to Study]]: A backlog of concepts and questions to explore for deeper mastery.
 [Timestamp: 2026/06/04 09:16:27]
 
-**user**: Now, add another topic to the [[Knowledge Refinement]] and correctly differentiate between them - next steps are for concepts already seen, but need further digestion and Future studies are to be seen. You can suggest better organization and naming of it as well. For example, should it go inside Future study or should it be in a different node file? What is the appropriate naming? etc
-[Context: Notes: Estudos/Dev/Backend/Database/* Next Steps.md, Estudos/Dev/Backend/Database/* MOC.md]
+**user**: Now, add another topic to the [[* Next Steps]] and correctly differentiate between them - next steps are for concepts already seen, but need further digestion and Future studies are to be seen. You can suggest better organization and naming of it as well. For example, should it go inside Future study or should it be in a different node file? What is the appropriate naming? etc
+[Context: Notes: Estudos/Dev/Backend/Database/Knowledge Refinement.md, Estudos/Dev/Backend/Database/* MOC.md]
 [Timestamp: 2026/06/04 09:19:36]
 
 **ai**: To improve your workflow and clarify the distinction between "new stuff" and "stuff to master," I suggest a more descriptive naming convention and a structural update to your **[[* MOC]]**.
@@ -69,7 +69,7 @@ Instead of generic names, using terms that imply **action** helps you know exact
 
 ---
 
-### 2. Updated [[Knowledge Refinement]] (Knowledge Refinement)
+### 2. Updated [[* Next Steps]] (Knowledge Refinement)
 
 I have added a new item regarding **Relationship Mapping**, as it is a core concept that usually requires practice after the initial read.
 
@@ -101,9 +101,9 @@ I recommend splitting the "Future Study" section into two distinct categories at
 
 ### Why this works:
 
-1. **Cognitive Load**: When you have 15 minutes, you look at **[[Knowledge Refinement]]** to finish something you started. When you have 2 hours, you look at **[[Learning Backlog]]** to start something new.
+1. **Cognitive Load**: When you have 15 minutes, you look at **[[* Next Steps]]** to finish something you started. When you have 2 hours, you look at **[[Topics to Study]]** to start something new.
 2. **Naming**: Using `*` as a prefix (like in `* Next Steps`) is a good Obsidian trick to keep that file at the top of your folder, but `Knowledge Refinement` tells your brain *why* the file exists.
 3. **Atomic Growth**: By keeping them in the MOC, you ensure that your "backlog" doesn't become a "black hole" where ideas go to die; they are always linked to your main Database Design map.
 
-**Would you like me to rewrite the [[Learning Backlog]] note to categorize those specific questions into "Structural" vs. "Architectural" themes?**
+**Would you like me to rewrite the [[Topics to Study]] note to categorize those specific questions into "Structural" vs. "Architectural" themes?**
 [Timestamp: 2026/06/04 09:21:18]

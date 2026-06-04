@@ -5,3 +5,7 @@
 ## Update and refine Database MOC
 **Time:** 2026-06-01 13:25
 **Summary:** The user requested a grammar and clarity review of an Obsidian "* MOC" note, updating it to include new files: [[SQL Access Control]], [[Encryption]], and [[SQL Language Concepts]]. The resulting note keeps the existing structure (YAML frontmatter, Core Philosophy, Design Workflow, Atomic Concepts) while improving wording, consistency, and readability without changing the original meaning.
+
+## Refining Database Design MOC and Study Workflow
+**Time:** 2026-06-04 09:56
+**Summary:** The user and AI collaborate on organizing a Database Design Map of Content (MOC) to better distinguish between new study topics and concepts needing deeper refinement. The AI suggests an action-oriented naming convention—"Learning Backlog" and "Knowledge Refinement"—and provides a structural update to the MOC to improve learning efficiency.

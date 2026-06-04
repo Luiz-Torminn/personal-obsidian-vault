@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18756d28c4c8556c",
+            "id": "38d10f71991c14f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Business/Business Plan.md",
+                "file": "Estudos/Business/Enterprise Organization/Business Plan/Business Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Plan"
+              "title": "Business Strategy"
+            }
+          },
+          {
+            "id": "763fab7580426127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Business/Enterprise Organization/Business Plan/Business Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business Strategy"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#database",
+                "query": "tag:#Parts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +243,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18756d28c4c8556c",
+  "active": "38d10f71991c14f5",
   "lastOpenFiles": [
+    "Estudos/Business/Enterprise Organization/Business Plan/Business Model.md",
+    "Estudos/Business/Enterprise Organization/Business Plan/Business Strategy.md",
+    "copilot/copilot-conversations/Obsidian_Summarization_and_Formatting@20260604_124624.md",
+    "Estudos/Business/Enterprise Organization/Business Plan/MOC.md",
+    "Captura de Tela 2026-06-04 às 11.31.17.png",
+    "Estudos/Business/Enterprise Organization/Business Plan",
+    "Estudos/Business/Enterprise Organization",
     "Estudos/Dev/Backend/Database/Learning Backlog.md",
-    "Estudos/Business/Business Plan.md",
     "Estudos/Business",
     "copilot/copilot-conversations/File_Organization_and_Translation@20260604_095643.md",
     "Estudos/Dev/Backend/Database/* MOC.md",
@@ -257,18 +276,13 @@
     "Estudos/Dev/Backend/Database/Database Design/Relationship Mapping.md",
     "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Language Concepts.md",
     "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Data Types.md",
-    "Livros",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "Sem título.canvas",
     "2026-06-01.md",
-    "Sem título.base",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-conversations/Refining_Relationship_Mapping_Notes@20260601_082239.md",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 13.00.54.png",
     "Captura de Tela 2026-06-01 às 12.38.03.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 12.19.17.png",
@@ -277,7 +291,6 @@
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 11.04.09.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 09.59.55.png",
     "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.29.55.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.05.54.png",
-    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 08.09.55.png"
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.05.54.png"
   ]
 }

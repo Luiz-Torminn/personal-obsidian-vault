@@ -71,6 +71,7 @@ A corporation is a separate legal entity owned through shares.
 - Shares may be privately held or publicly traded.
 - Public corporations typically go public via an IPO; share prices fluctuate thereafter.
 - Governance is overseen by a **board of directors** representing shareholders.
+- It has sub types (C and S)
 
 ---
 

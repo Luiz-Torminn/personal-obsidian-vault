@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "1bccab79e4fea475",
+    "type": "split",
+    "children": [
+      {
+        "id": "f62b8bd65526d7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18756d28c4c8556c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Dev/Backend/Database/* MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "* MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9113626ade6cdfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f31e19eb27e8d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d2a0579f4e116a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "67cabfb122347a48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#database",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8f1c430da57bc5f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "c840318c1539a9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7696e3a6393e0fb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ead5490c96e166",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "copilot/memory/Recent Conversations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Recent Conversations"
+            }
+          },
+          {
+            "id": "9d097ca2c381a426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudos/Dev/Database_design/* Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para * Index"
+            }
+          },
+          {
+            "id": "a37f53dec023297a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8e27bc86991b2387",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "5043bc0d8665de99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "c5abf86031f93142",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "8c0bd43535cdaca6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "copilot/memory/Recent Conversations.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades do arquivo Recent Conversations"
+            }
+          },
+          {
+            "id": "0ddf84db409ee9cd",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smtcmp-chat-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "copilot:Open Copilot Chat": false,
+      "scribe:Scribe": false
+    }
+  },
+  "active": "37d2a0579f4e116a",
+  "lastOpenFiles": [
+    "Estudos/Dev/Backend/Database/Learning Backlog.md",
+    "Estudos/Dev/Backend/Database/Knowledge Refinement.md",
+    "Estudos/Dev/Backend/Database/* MOC.md",
+    "Estudos/Dev/Backend/Database",
+    "Estudos/Dev/Backend/Sem título",
+    "copilot/copilot-conversations/Link_to_Topics_to_Study@20260604_091619.md",
+    "Estudos/Dev/AI/Computer Vision/Post Processing/Weighted Box Fusion (WBF).md",
+    "Estudos/Dev/AI/Computer Vision/Post Processing/Non-Maximum Suppression (NMS).md",
+    "Estudos/Dev/Backend/Database/Database Fundamentals/Database Keys and Identity.md",
+    "Estudos/Dev/Backend/Database/Database Fundamentals/Encryption.md",
+    "Estudos/Dev/Backend/Database/Database Fundamentals/Indexing.md",
+    "Estudos/Dev/Backend/Database/Database Fundamentals/Relational Database Fundamentals.md",
+    "copilot/copilot-conversations/Annotate_Code_With_Mental_Models@20260602_125418.md",
+    "Estudos/Dev/Backend/Database/Database Design/Database Normalization.md",
+    "Estudos/Dev/AI/Computer Vision/Post Processing",
+    "Estudos/Dev/AI/Computer Vision",
+    "Labor/ZSCAN",
+    "Labor",
+    "Estudos/Dev/AI",
+    "Estudos/Dev/Backend/Database/Database Design/Relationship Mapping.md",
+    "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Language Concepts.md",
+    "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Data Types.md",
+    "Livros",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "Sem título.canvas",
+    "2026-06-01.md",
+    "Sem título.base",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-conversations/Refining_Relationship_Mapping_Notes@20260601_082239.md",
+    "copilot/copilot-conversations/Organizing_Second_Brain_Folders@20260531_150613.md",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 13.00.54.png",
+    "Captura de Tela 2026-06-01 às 12.38.03.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 12.19.17.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 12.19.23.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 11.04.00.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 11.04.09.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 09.59.55.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.29.55.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 10.05.54.png",
+    "Estudos/Dev/images/Captura de Tela 2026-06-01 às 08.09.55.png",
+    "Estudos/Dev/Frontend"
+  ]
+}

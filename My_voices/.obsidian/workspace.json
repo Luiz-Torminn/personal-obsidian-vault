@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +226,8 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "copilot:Open Copilot Chat": false,
-      "scribe:Scribe": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Abrir importador Markdown": false
+      "scribe:Scribe": false
     }
   },
   "active": "38d10f71991c14f5",

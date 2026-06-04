@@ -9,7 +9,7 @@ tags:
 ---
 # Definition
 
-Document that will help you—and anyone you approach for funding—to understand what your business will do and how all its key parts fit together to create and capture value.
+A document that helps you—and anyone you approach for funding—understand what your business will do and how all its key parts fit together to create and capture value.
 
 ---
 # Core Components
@@ -46,3 +46,10 @@ For a deeper dive into various possibilities of business model structures, refer
 - **Source:** *Seizing the White Space* by Mark W. Johnson.
 
 ![[Captura de Tela 2026-06-04 às 11.31.17.png|368]]
+
+---
+
+## Related
+
+- Up: [[* MOC|Business MOC]]
+- Sits within the [[Business Plan]]; pairs with [[Business Strategy]].

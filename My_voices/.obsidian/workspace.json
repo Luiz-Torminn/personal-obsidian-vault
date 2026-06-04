@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f62b8bd65526d7d1",
+        "id": "df26e33b1f3891a0",
         "type": "tabs",
         "children": [
           {
-            "id": "38d10f71991c14f5",
+            "id": "73e340b3e56dae8b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Estudos/Business/Enterprise Organization/Business Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Business Model"
             }
           }
         ]
@@ -226,14 +230,17 @@
       "scribe:Scribe": false
     }
   },
-  "active": "38d10f71991c14f5",
+  "active": "73e340b3e56dae8b",
   "lastOpenFiles": [
-    "Estudos/Business/* MOC.md",
+    "Estudos/Business/Enterprise Organization/Business Plan.md",
     "Estudos/Business/Enterprise Organization/Proprietorships.md",
+    "Estudos/Business/Enterprise Organization/Business Plan.md.tmp.81154.ea1fa477fac3",
+    "Estudos/Dev/Backend/Database/* MOC.md",
+    "Estudos/Business/* MOC.md.tmp.81154.b1c1e0f62c41",
+    "Estudos/Business/* MOC.md",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 11.31.17.png",
     "Estudos/Business/images",
     "Estudos/Business/Enterprise Organization/Business Strategy.md",
-    "Estudos/Business/Enterprise Organization/Business Plan.md",
     "Estudos/Business/Enterprise Organization/Business Model.md",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.34.16.png",
     "Estudos/Business/images/Captura de Tela 2026-06-04 às 14.33.38.png",
@@ -245,7 +252,6 @@
     "Estudos/Dev/Backend/Database/Learning Backlog.md",
     "Estudos/Business",
     "copilot/copilot-conversations/File_Organization_and_Translation@20260604_095643.md",
-    "Estudos/Dev/Backend/Database/* MOC.md",
     "Estudos/Dev/Backend/Database/Knowledge Refinement.md",
     "Estudos/Dev/Backend/Database",
     "Estudos/Dev/Backend/Sem título",
@@ -260,8 +266,6 @@
     "Estudos/Dev/Backend/Database/Database Design/Database Normalization.md",
     "Estudos/Dev/AI/Computer Vision/Post Processing",
     "Estudos/Dev/AI/Computer Vision",
-    "Labor/ZSCAN",
-    "Labor",
     "Estudos/Dev/Backend/Database/Database Design/Relationship Mapping.md",
     "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Language Concepts.md",
     "Estudos/Dev/Backend/Database/Database Fundamentals/SQL Data Types.md",

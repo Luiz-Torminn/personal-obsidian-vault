@@ -11,7 +11,7 @@ A document that explains a business opportunity, identifies the target market, a
 
 A strong plan also describes the unique qualifications that you and your management team bring to the effort, explains the resources you will need, and forecasts financial results over a reasonable time horizon.
 
-**Logic (at a glance):** Market  Opportunity  How/Why we will pursue it  What we need to get there
+**Logic (at a glance):** Market → Opportunity → How/Why we will pursue it → What we need to get there
 
 ---
 # Importance
@@ -72,9 +72,9 @@ Maintain objectivity and clarity.
 What goes in:
 
 - Goals and growth plan
-- [Business Model](obsidian://open?file=Estudos%2FBusiness%2FEnterprise%20Organization%2FBusiness%20Model.md)
-- [Business Strategy](obsidian://open?file=Estudos%2FBusiness%2FEnterprise%20Organization%2FBusiness%20Strategy.md)
-- [Proprietorships](obsidian://open?file=Estudos%2FBusiness%2FEnterprise%20Organization%2FProprietorships.md)
+- [[Business Model]]
+- [[Business Strategy]]
+- [[Proprietorships]]
 
 ---
 
@@ -130,9 +130,8 @@ Be clear about:
 - Customer acquisition cost (CAC) and retention cost
 - Competitors’ strengths/weaknesses and how they may react to your entry
 
-Note
-
-All of these points should be supported by credible market intelligence.
+> [!NOTE]
+> All of these points should be supported by credible market intelligence.
 
 ---
 
@@ -173,3 +172,10 @@ Follow strong writing rules: use words sparingly, keep sentences simple, use des
 	
 - Break up long text blocks to maintain readability.  
 ![[Captura de Tela 2026-06-04 às 14.33.38.png|397]]
+
+---
+
+## Related
+
+- Up: [[* MOC|Business MOC]]
+- [[Business Model]] · [[Business Strategy]] · [[Proprietorships]]

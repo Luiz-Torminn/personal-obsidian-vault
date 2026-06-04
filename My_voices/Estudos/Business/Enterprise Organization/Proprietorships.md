@@ -37,7 +37,7 @@ tags: [business, enterprise-organization, legal-structure, proprietorship, partn
 > [!NOTE]
 > ### IMPORTANT - What to agree on (in writing)
 > 
-> - Capital contributions (cash, intelectual property, property, equipment, etc.).
+> - Capital contributions (cash, intellectual property, property, equipment, etc.).
 > - Profit and loss allocation.
 > - Salaries and draws.
 > - Roles, responsibilities, and decision rights.
@@ -69,3 +69,10 @@ A corporation is a separate legal entity owned through shares.
 - Shares may be privately held or publicly traded.
 - Public corporations typically go public via an IPO; share prices fluctuate thereafter.
 - Governance is overseen by a **board of directors** representing shareholders.
+
+---
+
+## Related
+
+- Up: [[* MOC|Business MOC]]
+- Informs the legal-structure choice in the [[Business Plan]].

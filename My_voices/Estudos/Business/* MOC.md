@@ -34,10 +34,10 @@ graph TD
 
 ### Enterprise Organization
 
-- **[[Business Plan]]** — The opportunity, the target market, and how the organization plans to pursue it. The umbrella document for securing funding and guiding execution.
-- **[[Business Model]]** — Focuses on market and costumer delivery.
-- **[[Business Strategy]]** —  Focuses on product differentiation, competitive positioning, and resource allocation.
-- **[[Proprietorships]]** — Legal structures (sole proprietorship, general & limited partnerships, corporation) and their trade-offs in control, liability, and access to capital.
+- **[[Business Plan]]** — The master document: the opportunity, the market, and how the organization will pursue it.
+- **[[Business Model]]** — How the business creates and captures value across market and delivery.
+- **[[Business Strategy]]** — How the firm differentiates, positions itself, and allocates resources to win.
+- **[[Proprietorships]]** — Legal structures and their trade-offs in control, liability, and capital.
 
 ---
 

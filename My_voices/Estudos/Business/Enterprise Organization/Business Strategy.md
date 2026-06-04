@@ -87,10 +87,17 @@ In the internet economy, the driving force is **demand-side economies of scale**
 
 ## Strategic Agility & Resilience
 
-Success is rarely a straight line. Every startup is an experiment, failure is a possibility that must be managed.
+Success is rarely a straight line. Every startup is an experiment; failure is a possibility that must be managed.
 
 - **The Pivot:** Recognize bad news quickly and respond with a revised strategy.
 - **Incrementalism:** If something works, do more of it.
 - **Niche Expansion:** Master a small, niche market first, then use those learnings to enter subsequent niches, altering the product as necessary.
 
 > "Successful entrepreneurs are adept to these capabilities. They are also masters of incrementalism—that is, if they find that something is working, they do more of it."
+
+---
+
+## Related
+
+- Up: [[* MOC|Business MOC]]
+- Sits within the [[Business Plan]]; pairs with [[Business Model]].

@@ -4,6 +4,8 @@ type: permanent
 tags: [business-plan, entrepreneurship, planning, fundraising, management]
 up: "[[* Business MOC]]"
 created: 2026-06-04
+references:
+  - Harvard Business Review Entrepreneur's Handbook
 ---
 # Definition
 

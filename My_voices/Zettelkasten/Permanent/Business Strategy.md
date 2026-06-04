@@ -4,10 +4,12 @@ type: permanent
 tags: [management, entrepreneurship, competitive-advantage]
 up: "[[* Business MOC]]"
 created: 2026-06-04
+references:
+  - Harvard Business Review Entrepreneur's Handbook
 ---
 # Definition
 
-A business strategy is a comprehensive plan focused on analyzing the external environment and determining the optimal allocation of financial resources, human capital, and capacity. Its ultimate goal is to differentiate the enterprise and create an exploitable advantage.
+A business strategy is a comprehensive plan focused on differentiating the enterprise and create an exploitable advantage.
 
 ---
 

@@ -83,6 +83,7 @@ Frontmatter (YAML properties) is required. Use these keys consistently:
 | `up`      | yes (except Home)| Wikilink to the parent map: `"[[* Database MOC]]"`.           |
 | `created` | yes             | `YYYY-MM-DD`.                                                  |
 | `aliases` | optional        | Alternative names (common on MOCs): `[Database MOC]`.          |
+| `references` | optional     | Source material the note derives from (books, papers, courses, URLs). YAML list. |
 
 **`type` values**
 - `fleeting` — inbox capture. Minimal frontmatter (`id`, `type`, `created`). No `up` needed.
@@ -99,6 +100,8 @@ type: permanent
 tags: [topic, subtopic]
 up: "[[* Database MOC]]"
 created: 2026-06-04
+references:                       # optional — source material the note derives from
+  - Book / paper / course / URL
 ---
 # Title
 
@@ -107,6 +110,9 @@ One idea, in your own words. Link to related notes like [[Other Note]].
 ## Related
 - Lateral links to sibling notes (the parent is already in `up:`).
 ```
+
+> [!TIP] Tracking sources
+> Use `references` to record where a note's material comes from. It's a list, so add one item per source. Example — the business notes derive from the *Harvard Business Review Entrepreneur's Handbook*. Omit the key entirely for notes with no external source.
 
 **Index note (MOC)**
 ```yaml

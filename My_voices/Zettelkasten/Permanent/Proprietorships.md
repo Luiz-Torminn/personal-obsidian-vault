@@ -4,6 +4,8 @@ type: permanent
 tags: [business, enterprise-organization, legal-structure, proprietorship, partnership, corporation]
 up: "[[* Business MOC]]"
 created: 2026-06-04
+references:
+  - Harvard Business Review Entrepreneur's Handbook
 ---
 # Types
 

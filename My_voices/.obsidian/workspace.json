@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/+ Inbox/CASL.md",
+                "file": "Zettelkasten/+ Inbox/Tanstack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CASL"
+              "title": "Tanstack"
             }
           }
         ]
@@ -232,8 +232,11 @@
   },
   "active": "73e340b3e56dae8b",
   "lastOpenFiles": [
-    "Zettelkasten/+ Inbox/Nest JS.md",
+    "Zettelkasten/+ Inbox/Fastify.md",
+    "Zettelkasten/+ Inbox/Tanstack.md",
     "Zettelkasten/+ Inbox/CASL.md",
+    "Zettelkasten/+ Inbox/*How to use the Inbox.md",
+    "Zettelkasten/+ Inbox/Nest JS.md",
     "Zettelkasten/+ Inbox/Prisma.md",
     "Zettelkasten/New Studies.md",
     "Zettelkasten/Next Steps.md",
@@ -255,9 +258,6 @@
     "Zettelkasten/Permanent/Non-Maximum Suppression (NMS).md",
     "Zettelkasten/Permanent/Indexing.md",
     "Zettelkasten/Permanent/Encryption.md",
-    "Zettelkasten/Permanent/Database Normalization.md",
-    "Zettelkasten/Permanent/Database Keys and Identity.md",
-    "Zettelkasten/Permanent/Database Design Process.md",
     "Zettelkasten/Maps of Content",
     "Zettelkasten/Permanent",
     "Zettelkasten/Non-Maximum Suppression (NMS).md.tmp.88365.d91544ef64cb",

@@ -23,7 +23,7 @@ aliases: [Home, Dashboard, MOC]
 
 ## ⚙️ Capture & Workflow
 
-- **📥 Inbox** — quick capture, one note per idea (folder `+ Inbox/`). Start at [[How to use the Inbox]].
+- **📥 Inbox** — quick capture, one note per idea (folder `+ Inbox/`). Start at [[*How to use the Inbox]].
 - **[[Next Steps]]** — concrete follow-ups to refine existing notes.
 - **[[New Studies]]** — topics still to learn from scratch.
 

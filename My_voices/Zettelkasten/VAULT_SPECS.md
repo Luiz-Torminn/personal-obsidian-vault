@@ -178,7 +178,7 @@ Raw thought. Process later (see [[How to use the Inbox]]).
 capture → process → promote → file → link → log follow-ups
 ```
 
-1. **Capture** a thought as a `fleeting` note in `+ Inbox/` (see [[How to use the Inbox]]).
+1. **Capture** a thought as a `fleeting` note in `+ Inbox/` (see [[*How to use the Inbox]]).
 2. **Process** the Inbox regularly. For each note: promote, defer to [[New Studies]], or discard.
 3. **Promote** to a `permanent` note: rewrite in your own words, add the full frontmatter, then **delete the fleeting note**.
 4. **File** it: set `up:` to the right MOC, and add it to that MOC's body + `Down:` line.
@@ -221,4 +221,4 @@ Done — the note is atomic, two-way linked, discoverable from [[Home]] → Data
 ## Related
 
 - Up: [[Home]]
-- Workflow notes: [[Next Steps]] · [[New Studies]] · [[How to use the Inbox]]
+- Workflow notes: [[Next Steps]] · [[New Studies]] · [[*How to use the Inbox]]

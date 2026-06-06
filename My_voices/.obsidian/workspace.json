@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Permanent/Proprietorships.md",
+                "file": "Zettelkasten/+ Inbox/Fastify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proprietorships"
+              "title": "Fastify"
             }
           }
         ]
@@ -232,16 +232,16 @@
   },
   "active": "73e340b3e56dae8b",
   "lastOpenFiles": [
-    "Zettelkasten/Maps of Content/* Business MOC.md",
-    "Zettelkasten/+ Inbox/Tanstack.md",
-    "Zettelkasten/+ Inbox/Fastify.md",
-    "Zettelkasten/+ Inbox/CASL.md",
-    "Zettelkasten/+ Inbox/*How to use the Inbox.md",
     "Zettelkasten/+ Inbox/Nest JS.md",
     "Zettelkasten/+ Inbox/Prisma.md",
+    "Zettelkasten/+ Inbox/Fastify.md",
+    "Zettelkasten/Permanent/Proprietorships.md",
+    "Zettelkasten/Maps of Content/* Business MOC.md",
+    "Zettelkasten/+ Inbox/Tanstack.md",
+    "Zettelkasten/+ Inbox/CASL.md",
+    "Zettelkasten/+ Inbox/*How to use the Inbox.md",
     "Zettelkasten/New Studies.md",
     "Zettelkasten/Next Steps.md",
-    "Zettelkasten/Permanent/Proprietorships.md",
     "Zettelkasten/Maps of Content/* AI MOC.md",
     "Zettelkasten/Permanent/Business Plan.md",
     "Zettelkasten/Permanent/Business Strategy.md",

@@ -41,6 +41,9 @@ graph TD
 - **[[Business Strategy]]** — How the firm differentiates, positions itself, and allocates resources to win.
 - **[[Proprietorships]]** — Legal structures and their trade-offs in control, liability, and capital.
 
+## Finances
+- Basics
+
 ---
 
 ## Strategic Inquiries

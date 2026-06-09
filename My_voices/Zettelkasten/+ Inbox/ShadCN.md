@@ -1,0 +1,2 @@
+- ShadCN Blocks website
+- ShadCN UI website - repo of components

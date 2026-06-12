@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labor/Nobra.md",
+                "file": "Labor/Nobra/Nobra.md",
                 "mode": "source",
                 "source": false
               },
@@ -230,10 +230,11 @@
       "scribe:Scribe": false
     }
   },
-  "active": "73e340b3e56dae8b",
+  "active": "37d2a0579f4e116a",
   "lastOpenFiles": [
+    "Labor/Nobra",
     "Zettelkasten/+ Inbox/Prisma.md",
-    "Labor/Nobra.md",
+    "Labor/Nobra/Nobra.md",
     "Zettelkasten/+ Inbox/Fastify.md",
     "Zettelkasten/+ Inbox/Drizzle.md",
     "Zettelkasten/+ Inbox/CASL.md",
@@ -257,7 +258,6 @@
     "Zettelkasten/* Dev MOC.md",
     "Zettelkasten/Permanent/SQL Language Concepts.md",
     "Zettelkasten/Permanent/SQL Data Types.md",
-    "Zettelkasten/Permanent/SQL Access Control.md",
     "Zettelkasten/Maps of Content",
     "Zettelkasten/Permanent",
     "Zettelkasten/Non-Maximum Suppression (NMS).md.tmp.88365.d91544ef64cb",

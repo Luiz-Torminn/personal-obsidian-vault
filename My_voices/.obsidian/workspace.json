@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/+ Inbox/CASL.md",
+                "file": "Labor/Nobra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CASL"
+              "title": "Nobra"
             }
           }
         ]
@@ -232,17 +232,18 @@
   },
   "active": "73e340b3e56dae8b",
   "lastOpenFiles": [
+    "Zettelkasten/+ Inbox/Prisma.md",
+    "Labor/Nobra.md",
+    "Zettelkasten/+ Inbox/Fastify.md",
+    "Zettelkasten/+ Inbox/Drizzle.md",
+    "Zettelkasten/+ Inbox/CASL.md",
     "Zettelkasten/Permanent/Sem título.md",
     "Zettelkasten/Maps of Content/* Business MOC.md",
     "Zettelkasten/Home.md",
     "Zettelkasten/+ Inbox/ShadCN.md",
-    "Zettelkasten/+ Inbox/Prisma.md",
     "Zettelkasten/+ Inbox/MVVM.md",
-    "Zettelkasten/+ Inbox/Drizzle.md",
     "Zettelkasten/+ Inbox/*How to use the Inbox.md",
     "Zettelkasten/+ Inbox/Tanstack.md",
-    "Zettelkasten/+ Inbox/Fastify.md",
-    "Zettelkasten/+ Inbox/CASL.md",
     "Zettelkasten/+ Inbox/Nest JS.md",
     "Zettelkasten/Permanent/Proprietorships.md",
     "Zettelkasten/New Studies.md",
@@ -257,7 +258,6 @@
     "Zettelkasten/Permanent/SQL Language Concepts.md",
     "Zettelkasten/Permanent/SQL Data Types.md",
     "Zettelkasten/Permanent/SQL Access Control.md",
-    "Zettelkasten/Permanent/Relationship Mapping.md",
     "Zettelkasten/Maps of Content",
     "Zettelkasten/Permanent",
     "Zettelkasten/Non-Maximum Suppression (NMS).md.tmp.88365.d91544ef64cb",

@@ -1,0 +1,4 @@
+- Não usar RADIX no front
+- Chat está no component blocks
+- Verificar quando usar Layout, Blocks e UI
+- 

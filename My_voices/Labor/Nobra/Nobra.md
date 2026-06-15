@@ -2,7 +2,9 @@
 - NÃO criar componentes grandes - estabelecer boas práticas de modularização
 - Por hora, server/ será inutilizado (schemas atuais) e apenas o web/ com estrutura MVVM para povoamento com esquema legado
 - Máximo de 200 a 300 linhas por arquivo
-- NÃO usem STATE para validar/manipular formulário e usar a parte the Form nativo do Tanstack
+- NÃO usem STATE para validar/manipular formulário e usar a parte the Form nativo do Tanstack. State apenas quando for necessário
+- Dá para abrir imagens, forms, etc por meio do query param do Tanstack
+- Assim que um estado muda, todos os filhos serão rendenderizados novamente
 - Chat está no component blocks
 - Verificar quando usar Layout, Blocks e UI
 - Usamos KY para tomar conta de ações HTTP 

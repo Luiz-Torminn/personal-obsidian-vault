@@ -1,4 +1,8 @@
 - Não usar RADIX no front
+- NÃO criar componentes grandes - estabelecer boas práticas de modularização
+- Por hora, server/ será inutilizado (schemas atuais) e apenas o web/ com estrutura MVVM para povoamento com esquema legado
+- Máximo de 200 a 300 linhas por arquivo
+- NÃO usem STATE para validar/manipular formulário e usar a parte the Form nativo do Tanstack
 - Chat está no component blocks
 - Verificar quando usar Layout, Blocks e UI
 - Usamos KY para tomar conta de ações HTTP 

@@ -1,4 +1,5 @@
 - Não usar RADIX no front
 - Chat está no component blocks
 - Verificar quando usar Layout, Blocks e UI
-- 
+- Usamos KY para tomar conta de ações HTTP 
+- Zod for schema validation (wire schemas)

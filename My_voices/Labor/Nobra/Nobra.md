@@ -9,3 +9,6 @@
 - Verificar quando usar Layout, Blocks e UI
 - Usamos KY para tomar conta de ações HTTP 
 - Zod for schema validation (wire schemas)
+- "Fan out agents"
+- \codenavi para adquirir contexto --> Se necessário for, pedir para fazer prompt --> Executar \tlc-spec-driven 
+- 

@@ -11,4 +11,4 @@
 - Zod for schema validation (wire schemas)
 - "Fan out agents"
 - \codenavi para adquirir contexto --> Se necessário for, pedir para fazer prompt --> Executar \tlc-spec-driven 
-- 
+- Entender query-key files from Tanstack

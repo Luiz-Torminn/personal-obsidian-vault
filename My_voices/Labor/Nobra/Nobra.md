@@ -12,3 +12,5 @@
 - "Fan out agents"
 - \codenavi para adquirir contexto (usar mermaid-studio skill/mcp para aprimorar visualização de gráficos) --> Se necessário for, pedir para fazer prompt --> Executar \tlc-spec-driven 
 - Entender query-key files from Tanstack
+  
+

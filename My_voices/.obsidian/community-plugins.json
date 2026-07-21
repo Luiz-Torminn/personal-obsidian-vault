@@ -2,5 +2,6 @@
   "copilot",
   "omnisearch",
   "scribe",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api"
 ]

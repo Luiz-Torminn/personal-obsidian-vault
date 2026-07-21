@@ -26,10 +26,12 @@ up: "[[Home]]"
 
 ## Domain-Driven Design
 
-- [ ] Define [[Ubiquitous Language]] properly — referenced throughout Ch. 5–6 but never defined in the recording.
+- [x] Define [[Ubiquitous Language]] — now written as a permanent note from Ch. 1–4 (Strategic Design).
 - [ ] Add concrete code examples to [[Transaction Script]] and [[Active Record]].
 - [ ] Add a worked example contrasting [[Value Object]] equality vs [[Entity]] identity.
 - [ ] Clarify how [[Aggregate Command]] relates to CQRS commands and event sourcing.
+- [ ] Add a worked example contrasting [[Core Subdomain]] vs [[Supporting Subdomain]] vs [[Generic Subdomain]] (a build/buy decision).
+- [ ] Add a code / diagram sketch to [[Anti-Corruption Layer]] and [[Shared Kernel]].
 
 ## Related
 

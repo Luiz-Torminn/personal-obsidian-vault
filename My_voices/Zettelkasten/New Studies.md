@@ -33,7 +33,7 @@ up: "[[Home]]"
 
 ## Domain-Driven Design
 
-- **Strategic Design:** Bounded Contexts · Subdomains (core / supporting / generic) · Context Mapping · Ubiquitous Language.
+- ✅ **Strategic Design (covered — Ch. 1–4):** [[Business Domain and Subdomains|Subdomains (core / supporting / generic)]] · [[Bounded Context|Bounded Contexts]] · [[Context Map|Context Mapping]] · [[Ubiquitous Language]] — now written as permanent notes.
 - **Persistence & structure:** Repositories · Factories · persisting aggregates.
 - **Advanced tactical:** Event Sourcing & the Event-Sourced Domain Model (Ch. 7) · CQRS · Domain vs Integration events.
 

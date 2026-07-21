@@ -37,3 +37,4 @@ flowchart TD
 - [[Aggregate Command]] — the write pipeline an aggregate enforces on incoming operations.
 - [[Domain Event]] — how an aggregate announces state changes to the rest of the system.
 - [[Optimistic Concurrency Control]] — the versioning mechanism that protects aggregate consistency under concurrent writes.
+- [[Bounded Context]] — an aggregate must belong to a single bounded context; that boundary defines who may write it.

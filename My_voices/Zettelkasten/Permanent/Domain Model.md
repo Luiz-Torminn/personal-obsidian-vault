@@ -47,3 +47,4 @@ flowchart TD
 - [[Domain Event]] — published by the aggregate root.
 - [[Domain Service]] — holds orphan logic that doesn't fit inside one aggregate.
 - [[Transaction Script]] — the simple counterpart; contrast of simple vs. complex business logic.
+- [[Ubiquitous Language]] — the shared vocabulary a domain model keeps alive inside the code.

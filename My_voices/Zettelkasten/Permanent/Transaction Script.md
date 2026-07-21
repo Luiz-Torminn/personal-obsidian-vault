@@ -37,3 +37,4 @@ flowchart TD
 - [[Business Logic as Transactions]] — the broader framing this pattern belongs to.
 - [[Optimistic Concurrency Control]] — the mechanism that makes a Transaction Script's operations idempotent.
 - [[Domain Model]] — what to graduate to when the business logic gets too complex for a procedural script.
+- [[Core Subdomain]] — the case this pattern must never be used for; core-subdomain complexity outstrips a procedural script.

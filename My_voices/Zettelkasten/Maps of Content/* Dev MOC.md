@@ -22,12 +22,15 @@ graph TD
     DEV["Dev"]
     DB["Database MOC<br/><i>schema, integrity, security</i>"]
     AI["AI MOC<br/><i>computer vision & ML methods</i>"]
+    DDD["Domain-Driven Design MOC<br/><i>business-logic patterns</i>"]
     DEV --> DB
     DEV --> AI
+    DEV --> DDD
 ```
 
 - **[[* Database MOC|Database MOC]]** — designing robust relational databases: modelling, normalization, keys, SQL, security.
 - **[[* AI MOC|AI MOC]]** — applied AI methods, starting with computer-vision post-processing.
+- **[[* Domain-Driven Design MOC|Domain-Driven Design]]** — implementing business logic: tactical patterns from transaction scripts to the domain model.
 
 ---
 
@@ -43,4 +46,4 @@ graph TD
 ## Related
 
 - Up: [[Home]]
-- Down: [[* Database MOC]] · [[* AI MOC]]
+- Down: [[* Database MOC]] · [[* AI MOC]] · [[* Domain-Driven Design MOC]]

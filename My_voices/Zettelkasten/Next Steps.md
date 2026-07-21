@@ -23,6 +23,14 @@ up: "[[Home]]"
 
 ---
 
+
+## Domain-Driven Design
+
+- [ ] Define [[Ubiquitous Language]] properly — referenced throughout Ch. 5–6 but never defined in the recording.
+- [ ] Add concrete code examples to [[Transaction Script]] and [[Active Record]].
+- [ ] Add a worked example contrasting [[Value Object]] equality vs [[Entity]] identity.
+- [ ] Clarify how [[Aggregate Command]] relates to CQRS commands and event sourcing.
+
 ## Related
 
 - Up: [[Home]]

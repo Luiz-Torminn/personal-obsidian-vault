@@ -18,8 +18,7 @@ aliases: [Home, Dashboard, MOC]
 - **[[* Dev MOC|Development]]** — engineering knowledge across backend and AI.
     - **[[* Database MOC|Database]]** — designing robust relational databases.
     - **[[* AI MOC|AI]]** — applied AI methods (computer-vision post-processing).
-
----
+    - **[[* Domain-Driven Design MOC|Domain-Driven Design]]** — implementing business logic (tactical patterns).
 
 ## ⚙️ Capture & Workflow
 

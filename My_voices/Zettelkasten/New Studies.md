@@ -14,7 +14,7 @@ up: "[[Home]]"
 ## Database
 
 ### Domain Logic
-- Core vs. Supporting Domains
+
 - Authorization Classes & RBAC
 - Design Flexibility vs. Rigidity
 - Data Atomicity Principles
@@ -29,6 +29,13 @@ up: "[[Home]]"
 - Database Repercussions of Architectural Choices
 
 ---
+
+
+## Domain-Driven Design
+
+- **Strategic Design:** Bounded Contexts · Subdomains (core / supporting / generic) · Context Mapping · Ubiquitous Language.
+- **Persistence & structure:** Repositories · Factories · persisting aggregates.
+- **Advanced tactical:** Event Sourcing & the Event-Sourced Domain Model (Ch. 7) · CQRS · Domain vs Integration events.
 
 ## Related
 

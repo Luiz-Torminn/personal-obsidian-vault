@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Next Steps.md",
+                "file": "Zettelkasten/Maps of Content/* Domain-Driven Design MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Steps"
+              "title": "* Domain-Driven Design MOC"
             }
           }
         ]
@@ -230,9 +230,24 @@
       "scribe:Scribe": false
     }
   },
-  "active": "37d2a0579f4e116a",
+  "active": "0ba72a7cd7d54032",
   "lastOpenFiles": [
+    "Zettelkasten/Home.md",
     "Zettelkasten/VAULT_SPECS.md",
+    "Zettelkasten/Maps of Content/* Domain-Driven Design MOC.md",
+    "Zettelkasten/Permanent/Optimistic Concurrency Control.md",
+    "Zettelkasten/Permanent/Aggregate Command.md",
+    "Zettelkasten/Permanent/Aggregate.md",
+    "Zettelkasten/Permanent/Domain Model.md",
+    "Zettelkasten/Permanent/Domain Service.md",
+    "Zettelkasten/Permanent/Domain Event.md",
+    "Zettelkasten/Permanent/Transaction Script.md",
+    "Zettelkasten/Permanent/Aggregate Root.md",
+    "Zettelkasten/Permanent/Value Object.md",
+    "Zettelkasten/Permanent/Entity.md",
+    "Zettelkasten/Permanent/Active Record.md",
+    "Zettelkasten/Permanent/Business Logic as Transactions.md",
+    "Zettelkasten/Next Steps.md",
     "Labor/Nobra",
     "Zettelkasten/+ Inbox/Prisma.md",
     "Labor/Nobra/Nobra.md",
@@ -241,23 +256,9 @@
     "Zettelkasten/+ Inbox/CASL.md",
     "Zettelkasten/Permanent/Sem título.md",
     "Zettelkasten/Maps of Content/* Business MOC.md",
-    "Zettelkasten/Home.md",
     "Zettelkasten/+ Inbox/ShadCN.md",
     "Zettelkasten/+ Inbox/MVVM.md",
     "Zettelkasten/+ Inbox/*How to use the Inbox.md",
-    "Zettelkasten/+ Inbox/Tanstack.md",
-    "Zettelkasten/+ Inbox/Nest JS.md",
-    "Zettelkasten/Permanent/Proprietorships.md",
-    "Zettelkasten/New Studies.md",
-    "Zettelkasten/Next Steps.md",
-    "Zettelkasten/Maps of Content/* AI MOC.md",
-    "Zettelkasten/Permanent/Business Plan.md",
-    "Zettelkasten/Permanent/Business Strategy.md",
-    "Zettelkasten/Permanent/Weighted Box Fusion (WBF).md",
-    "Zettelkasten/Maps of Content/* Dev MOC.md",
-    "Zettelkasten/* Dev MOC.md",
-    "Zettelkasten/Permanent/SQL Language Concepts.md",
-    "Zettelkasten/Permanent/SQL Data Types.md",
     "Zettelkasten/Maps of Content",
     "Zettelkasten/Permanent",
     "Zettelkasten/Non-Maximum Suppression (NMS).md.tmp.88365.d91544ef64cb",

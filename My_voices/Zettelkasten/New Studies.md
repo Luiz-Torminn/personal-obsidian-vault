@@ -37,6 +37,13 @@ up: "[[Home]]"
 - **Persistence & structure:** Repositories · Factories · persisting aggregates.
 - **Advanced tactical:** Event Sourcing & the Event-Sourced Domain Model (Ch. 7) · CQRS · Domain vs Integration events.
 
+## Business / Startups
+
+- Teoria dos Contratos Relacionais (arcabouço central do livro de Faleiros Jr. — ainda não coberto na transcrição)
+- Marco Legal das Startups (LC 182/2021) em profundidade: enquadramento, sandbox regulatório
+- Tributação de stock options no Brasil (natureza mercantil vs. remuneratória)
+- Acordos de sócios: drag-along, tag-along, lock-up — complementos ao vesting
+
 ## Related
 
 - Up: [[Home]]

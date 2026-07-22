@@ -33,6 +33,12 @@ up: "[[Home]]"
 - [ ] Add a worked example contrasting [[Core Subdomain]] vs [[Supporting Subdomain]] vs [[Generic Subdomain]] (a build/buy decision).
 - [ ] Add a code / diagram sketch to [[Anti-Corruption Layer]] and [[Shared Kernel]].
 
+## Business / Startups
+
+- [ ] Confirmar no livro (Faleiros Jr.) o uso do termo "aceleração" no rompimento do vesting invertido — [[Vesting Termination and Acceleration]]
+- [ ] Verificar juridicamente a tese de afastamento tributário em [[Stock Options as Vesting Instrument]] (natureza mercantil vs. remuneratória, jurisprudência trabalhista/tributária atual)
+- [ ] Adicionar exemplo numérico de cronograma com cliffs em [[Cliffs in Vesting Schedules]]
+
 ## Related
 
 - Up: [[Home]]

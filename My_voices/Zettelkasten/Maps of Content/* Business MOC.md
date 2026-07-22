@@ -16,7 +16,6 @@ The **Business** domain studies how an enterprise creates, delivers, and capture
 ---
 
 ## Orientation — How the notes relate
-
 The **[[Business Plan]]** is the master document that ties everything together. It rests on three supporting pillars: *how value is made*, *how the firm wins*, and *how the firm is structured*.
 
 ```mermaid
@@ -25,12 +24,12 @@ graph TD
     BM["Business Model<br/><i>create &amp; capture value</i>"]
     BS["Business Strategy<br/><i>differentiate &amp; win</i>"]
     PR["Proprietorships<br/><i>legal structure</i>"]
+    SV["Startups &amp; Vesting<br/><i>sub-map</i>"]
     BP --> BM
     BP --> BS
     BP --> PR
+    BP --> SV
 ```
-
----
 
 ## Notes in this domain
 
@@ -40,6 +39,11 @@ graph TD
 - **[[Business Model]]** — How the business creates and captures value across market and delivery.
 - **[[Business Strategy]]** — How the firm differentiates, positions itself, and allocates resources to win.
 - **[[Proprietorships]]** — Legal structures and their trade-offs in control, liability, and capital.
+
+
+### Startups & Vesting
+
+- [[* Startups & Vesting MOC]] — sub-map: startup fundamentals, governance, and key-people vesting.
 
 ## Finances
 - Basics
@@ -71,3 +75,4 @@ graph TD
 - [[Business Model]]
 - [[Business Strategy]]
 - [[Proprietorships]]
+- [[* Startups & Vesting MOC]]

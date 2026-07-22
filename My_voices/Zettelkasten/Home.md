@@ -13,8 +13,8 @@ aliases: [Home, Dashboard, MOC]
 ---
 
 ## 🗺️ Domains
-
 - **[[* Business MOC|Business]]** — how an enterprise creates, captures, and organizes value.
+    - **[[* Startups & Vesting MOC|Startups & Vesting]]** — startup formation, governance, sociedade, and vesting mechanics.
 - **[[* Dev MOC|Development]]** — engineering knowledge across backend and AI.
     - **[[* Database MOC|Database]]** — designing robust relational databases.
     - **[[* AI MOC|AI]]** — applied AI methods (computer-vision post-processing).

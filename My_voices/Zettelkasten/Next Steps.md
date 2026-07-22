@@ -35,8 +35,8 @@ up: "[[Home]]"
 
 ## Business / Startups
 
-- [ ] Confirmar no livro (Faleiros Jr.) o uso do termo "aceleração" no rompimento do vesting invertido — [[Vesting Termination and Acceleration]]
-- [ ] Verificar juridicamente a tese de afastamento tributário em [[Stock Options as Vesting Instrument]] (natureza mercantil vs. remuneratória, jurisprudência trabalhista/tributária atual)
+- [x] Confirmar no livro (Faleiros Jr.) o uso do termo "aceleração" no rompimento do vesting invertido — [[Vesting Termination and Acceleration]] — resolvido em 2026-07-22: o livro usa "aceleração" no sentido pró-beneficiário (rompimento sem culpa → exercício imediato); a perda no invertido é "resolução" proporcional. Notas corrigidas.
+- [x] Verificar juridicamente a tese de afastamento tributário em [[Stock Options as Vesting Instrument]] (natureza mercantil vs. remuneratória, jurisprudência trabalhista/tributária atual) — verificado em 2026-07-22: tese confirmada (TST AgRR nº 2843-80.2011.5.02.0030; doutrina; requisito de onerosidade — plano não gratuito). Nota mantida por decisão do usuário.
 - [ ] Adicionar exemplo numérico de cronograma com cliffs em [[Cliffs in Vesting Schedules]]
 
 ## Related
